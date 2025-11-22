@@ -1,9 +1,11 @@
 # humanize-eth-errors
 
-Convert Ethereum RPC and smart contract errors into **friendly,
-human-readable messages**.\
-A tiny, modern TypeScript library for dApps, wallets, and Web3
+<p align="center">
+  <strong>Convert Ethereum RPC and smart contract errors into **friendly,
+human-readable messages**</strong><br/>
+  A tiny, modern TypeScript library for dApps, wallets, and Web3
 frontends.
+</p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/humanize-eth-errors">
@@ -107,14 +109,14 @@ addMappings({
 
 ## 🧠 What Errors Are Supported?
 
-- User rejected errors (MetaMask, WalletConnect, Coinbase Wallet)\
-- Gas issues\
-- Insufficient funds\
-- Allowance too low\
-- Token balance too low\
-- Generic "execution reverted"\
-- Node RPC failures\
-- ABI decoding issues\
+- User rejected errors (MetaMask, WalletConnect, Coinbase Wallet)
+- Gas issues
+- Insufficient funds
+- Allowance too low
+- Token balance too low
+- Generic "execution reverted"
+- Node RPC failures
+- ABI decoding issues
 - Metamask's internal errors
 
 And more added continuously.
@@ -148,6 +150,12 @@ PRs are welcome!\
 Add new errors to `mappings.ts` or open an issue with examples.
 
 ---
+
+## 📦 GitHub Repository
+
+You can find the full source code, issues, discussions, and documentation here:
+
+👉 **https://github.com/devforgetech/humanize-eth-errors**
 
 ## 📝 License
 
