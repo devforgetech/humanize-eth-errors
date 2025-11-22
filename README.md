@@ -5,6 +5,18 @@ human-readable messages**.\
 A tiny, modern TypeScript library for dApps, wallets, and Web3
 frontends.
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/humanize-eth-errors">
+    <img alt="npm version" src="https://img.shields.io/npm/v/humanize-eth-errors?color=blue&style=for-the-badge">
+  </a>
+  <a href="https://www.npmjs.com/package/humanize-eth-errors">
+    <img alt="npm downloads" src="https://img.shields.io/npm/dm/humanize-eth-errors?color=blue&style=for-the-badge">
+  </a>
+  <a href="https://github.com/devforgetech/humanize-eth-errors/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/devforgetech/humanize-eth-errors?style=for-the-badge">
+  </a>
+</p>
+
 ---
 
 ## 🚀 Features
