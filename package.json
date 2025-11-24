@@ -1,6 +1,6 @@
 {
   "name": "humanize-eth-errors",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert Ethereum RPC and smart contract errors into friendly human-readable messages.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",

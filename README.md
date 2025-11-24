@@ -14,8 +14,8 @@ frontends.
   <a href="https://www.npmjs.com/package/humanize-eth-errors">
     <img alt="npm downloads" src="https://img.shields.io/npm/dm/humanize-eth-errors?color=blue&style=for-the-badge">
   </a>
-  <a href="https://github.com/devforgetech/humanize-eth-errors/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/devforgetech/humanize-eth-errors?style=for-the-badge">
+  <a href="https://github.com/orvexis/humanize-eth-errors/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/orvexis/humanize-eth-errors?style=for-the-badge">
   </a>
 </p>
 
@@ -155,7 +155,7 @@ Add new errors to `mappings.ts` or open an issue with examples.
 
 You can find the full source code, issues, discussions, and documentation here:
 
-👉 **https://github.com/devforgetech/humanize-eth-errors**
+👉 **https://github.com/orvexis/humanize-eth-errors**
 
 ## 📝 License
 
